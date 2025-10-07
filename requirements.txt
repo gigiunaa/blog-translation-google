@@ -1,4 +1,4 @@
 flask
-openai
+openai>=1.12.0
 beautifulsoup4
 gunicorn
